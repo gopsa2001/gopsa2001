@@ -47,8 +47,8 @@ Here are some of the data science projects I've worked on:
 ## 📫 How to Reach Me
 
 - **Email:** [gopsa2001@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gopal-singh-chouhan-89069b233/))
-- **Twitter:** [@your-twitter-handle]([https://twitter.com/your-twitter-handle](https://x.com/_gopsa))
+- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gopal-singh-chouhan-89069b233/)
+- **Twitter:** [[https://twitter.com/your-twitter-handle](https://x.com/_gopsa)]
 
 
 ## 💬 Let's Connect!

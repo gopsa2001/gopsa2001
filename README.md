@@ -8,24 +8,6 @@ Welcome to my GitHub profile! I'm passionate about data science and love turning
 - 📍 **Location:** Jodhpur
 - 🔭 **Interests:** Data Science, Machine Learning, Artificial Intelligence, Data Visualization, Big Data
 
-## 🚀 My Data Science Projects
-
-Here are some of the data science projects I've worked on:
-
-### 1. [Project Name]
-**Description:** A brief description of what this project is about.  
-**Technologies Used:** Python, Pandas, Scikit-learn, Matplotlib, etc.  
-**Repository:** [Link to Project Repository]
-
-### 2. [Project Name]
-**Description:** A brief description of what this project is about.  
-**Technologies Used:** R, ggplot2, Shiny, etc.  
-**Repository:** [Link to Project Repository]
-
-### 3. [Project Name]
-**Description:** A brief description of what this project is about.  
-**Technologies Used:** SQL, Tableau, Power BI, etc.  
-**Repository:** [Link to Project Repository]
 
 ## 📊 My Skills
 

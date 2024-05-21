@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Gopal Singh Chouhan
 
 Welcome to my GitHub profile! I'm passionate about data science and love turning data into actionable insights. Here you'll find projects, experiments, and resources that reflect my journey and interests in the field of data science.
 
